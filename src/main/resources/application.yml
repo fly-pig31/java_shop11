@@ -10,7 +10,7 @@ server.servlet.context-path: /api
 BASE_LOCATION: D:\StudyWork\Springboot\java_shop11
 DB_NAME: shop
 
-  #BASE_LOCATION: C:\Users\Administrator\Desktop\java-shop
+#BASE_LOCATION: D:\StudyWork\Springboot\java_shop11
 #DB_NAME: java_shop
 
 
